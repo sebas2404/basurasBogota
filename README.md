@@ -12,8 +12,7 @@ Este proyecto es una aplicación web desarrollada con Streamlit y TensorFlow que
 
 PARA ABRIR EL PROYECTO EN EL NAVEGADOR, DE CLICK:
 
-
-
+[text](https://basurasbogota-aydual3smhwepxyrokudiv.streamlit.app/)
 
 
 
